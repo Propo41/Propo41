@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=propo41&count_private=true&show_icons=true&theme=dracula" alt="propo41" width="411"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=propo41&langs_count=8&layout=compact&theme=dracula" alt="propo41" height="156" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=propo41&langs_count=8&layout=compact&theme=dracula" alt="propo41" height="162" />
 </p>
