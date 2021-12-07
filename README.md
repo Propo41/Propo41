@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, horses! 🐴
+This is under construction 🚧. Meanwhile, you might wanna check out my stats down here 👇
 
 <!--
 **Propo41/Propo41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
